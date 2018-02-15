@@ -19,6 +19,7 @@ $badge = $xlp->GetBadgeLayout();
 <code>
 var_dump($badge);
 </code><br>
+<code>
 $scan = $xlp->GetBadgeInfo("200000","Last");
 </code>
 <br>
